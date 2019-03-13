@@ -13,3 +13,10 @@ int main()
   return 0;
 }
 
+// this is a single line comment
+
+/*
+ * This is
+ * a multi
+ * line comment
+ */
