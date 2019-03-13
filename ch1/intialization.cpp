@@ -7,12 +7,12 @@
 
 #include <iostream>
 
-int ch1_main()
+int main()
 {
-	int x = 0;
-	int y = 7;
-//	int x{0};
-//	int y{7};
+//	int x = 0;
+//	int y = 7;
+	int x{0};
+	int y{7};
 	std::cout << int(x+y);
 
 	return x + y;

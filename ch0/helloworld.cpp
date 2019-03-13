@@ -7,7 +7,7 @@
 
 #include <iostream>
 
-int main()
+int ch0_main()
 {
   std::cout << "Hello, world!";
   return 0;
@@ -17,6 +17,6 @@ int main()
 
 /*
  * This is
- * a multi
- * line comment
+ * a long
+ * comment
  */
